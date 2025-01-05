@@ -1,0 +1,20 @@
+
+.background_color {
+    background-color: rgb(207, 125, 125);
+    font-family: 'Times New Roman', Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.biggerfont#uniqueid{
+    font-size: 24px;
+}
+
+#uniquecolor {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#uniqueid {
+    background-color: hsl(120, 100%, 70%);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
